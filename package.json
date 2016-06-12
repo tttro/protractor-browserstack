@@ -1,0 +1,12 @@
+{
+  "name": "protractor-browserstack",
+  "version": "0.0.1",
+  "description": "Protractor BrowserStack boilerplate",
+  "author": "Tero Taipale",
+  "scripts":{
+    "test": "protractor protractor.conf.js"
+  },
+  "devDependencies": {
+    "protractor": "^3.3.0"
+  }
+}
